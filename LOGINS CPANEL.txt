@@ -1,0 +1,12 @@
+Username	concep14tionweb
+Password	+m*Z[@h7u}C=
+LIEN		http://conceptionweb-14.expertiseweb.ca/
+		http://conceptionweb-14.expertiseweb.ca:2082
+
+COMPTE
+	USERNAME		administrateur
+	PASSWORD		admin
+
+	(BD_PLEINE)USERNAME	mpare
+	(BD_PLEINE)PASSWORD	mpare
+
